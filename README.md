@@ -1,3 +1,12 @@
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise, you can also remove it. -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotruOGm3oh1D6p0rArEcdTS5DDvsvIPeegQ&usqp=CAU" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Hello Rails React App</b></h3>
+
+</div>
+
 <!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
@@ -139,6 +148,6 @@ Definitely! We welcome any improvements or new ideas you may have. If your chang
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./MIT.md) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
